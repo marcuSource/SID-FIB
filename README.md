@@ -1,3 +1,3 @@
 # SID-FIB
 
-Repositori de Github per l'assignatura de Sistemes Intel·ligents Distribuïts Q2 2024/2025
+Repositori amb les entregues de Problemes i Laboratori de Sistemes Intel·ligents Distribuïts 2024-2025 Q2
