@@ -1,0 +1,4 @@
+Fase,Recompensa colectiva,Tasa de éxito,Tasa de éxito individual,Tiempo entrenamiento (s)
+Entrenamiento (últimos 10),0.09700000000000002,0.02,,59.13717985153198
+Test no vistos,-0.008999999999999985,0.0,0.1,
+Test vistos,0.092,0.0,0.15,
