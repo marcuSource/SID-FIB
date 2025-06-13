@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+             width="70" height="70" viewBox="0 -700 700 700">
+
+<defs>
+
+</defs>
+
+<line stroke="#84A1AE" stroke-width="6.0" x1="-50.0" x2="-50.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="50.0" x2="50.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="150.0" x2="150.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="250.0" x2="250.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="350.0" x2="350.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="450.0" x2="450.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="550.0" x2="550.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="650.0" x2="650.0" y1="0" y2="-700" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="50.0" y2="50.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-50.0" y2="-50.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-150.0" y2="-150.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-250.0" y2="-250.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-350.0" y2="-350.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-450.0" y2="-450.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-550.0" y2="-550.0" />
+<line stroke="#84A1AE" stroke-width="6.0" x1="0" x2="700" y1="-650.0" y2="-650.0" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="65" y="-135" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="65" y="-235" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="65" y="-335" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="65" y="-435" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="65" y="-535" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="65" y="-635" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="165" y="-135" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="165" y="-635" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="265" y="-135" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="265" y="-535" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="265" y="-635" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="365" y="-135" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="365" y="-635" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="465" y="-135" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="465" y="-535" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="465" y="-635" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="565" y="-135" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="565" y="-235" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="565" y="-335" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="565" y="-435" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="565" y="-535" />
+<rect fill="#84A1AE" height="70" rx="15" width="70" x="565" y="-635" />
+<circle cx="400" cy="-500" fill="#c1433c" r="35"> <animate attributeName="cy" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.25;0.375;0.5;0.625;1.0" repeatCount="indefinite" values="-500;-500;-400;-400;-300;-200;-200"/>
+<animate attributeName="cx" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.625;0.75;0.875;1.0" repeatCount="indefinite" values="400;400;400;300;200;200"/>
+<animate attributeName="visibility" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.75;0.875;1.0" repeatCount="indefinite" values="visible;visible;visible;hidden;hidden"/> </circle>
+<circle cx="300" cy="-300" fill="#2e6f9e" r="35"> <animate attributeName="cy" dur="1.9600000000000002s" keyTimes="0.0;0.125;1.0" repeatCount="indefinite" values="-300;-300;-300"/>
+<animate attributeName="cx" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.25;0.375;1.0" repeatCount="indefinite" values="300;300;400;500;500"/>
+<animate attributeName="visibility" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.25;0.375;1.0" repeatCount="indefinite" values="visible;visible;visible;hidden;hidden"/> </circle>
+<circle cx="200" cy="-200" fill="none" r="35" stroke="#c1433c" stroke-width="10"> <animate attributeName="visibility" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.75;0.875;1.0" repeatCount="indefinite" values="visible;visible;visible;hidden;hidden"/> </circle>
+<circle cx="500" cy="-300" fill="none" r="35" stroke="#2e6f9e" stroke-width="10"> <animate attributeName="visibility" dur="1.9600000000000002s" keyTimes="0.0;0.125;0.25;0.375;1.0" repeatCount="indefinite" values="visible;visible;visible;hidden;hidden"/> </circle>
+</svg>
